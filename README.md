@@ -58,6 +58,6 @@ Solve 100+ DSA Problems
 - [x] Next Greater Element I
 - [x] Largest Rectangle in Histogram
 - [x] Remove K Digits
+- [x] Asteroid Collision
 
-Total Solved: 54
-
+Total Solved: 55
