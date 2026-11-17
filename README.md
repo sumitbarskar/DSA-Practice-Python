@@ -61,5 +61,6 @@ Solve 100+ DSA Problems
 - [x] Asteroid Collision
 - [x] Online Stock Span
 - [x] Simplify Path
+- [x] Kth Largest Element in an Array
 
-Total Solved: 57
+Total Solved: 58
