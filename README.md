@@ -59,5 +59,6 @@ Solve 100+ DSA Problems
 - [x] Largest Rectangle in Histogram
 - [x] Remove K Digits
 - [x] Asteroid Collision
+- [x] Online Stock Span
 
-Total Solved: 55
+Total Solved: 56
