@@ -60,5 +60,6 @@ Solve 100+ DSA Problems
 - [x] Remove K Digits
 - [x] Asteroid Collision
 - [x] Online Stock Span
+- [x] Simplify Path
 
-Total Solved: 56
+Total Solved: 57
